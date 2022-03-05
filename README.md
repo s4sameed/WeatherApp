@@ -20,7 +20,3 @@
 -  Ant Design
 -  Axios
 -  Weather API
-
-## Live Demo
-
-[Codepen](https://codepen.io/jordanutz/pen/RwozxwG)
